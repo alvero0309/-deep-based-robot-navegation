@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/milena/DRL-robot-navigation/catkin_ws/install/setup.sh
